@@ -1,11 +1,16 @@
-#paragraphs{ 
+paragraphs{ 
   width: 80%;
   margin: auto;
   padding: 20px;
   border: 10px solid ;
   background: blue;
 }
-#lists{ 
+lists{ 
 font-family: Verdana, sans-serif;
 color: green;
+}
+
+h1{
+  color: green;
+  font-family: Georgia, sans-serif;
 }
